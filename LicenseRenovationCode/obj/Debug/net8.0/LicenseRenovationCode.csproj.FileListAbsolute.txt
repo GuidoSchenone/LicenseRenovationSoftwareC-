@@ -1,0 +1,14 @@
+C:\Users\Materia Gris\.vscode\LicenseRenovationCode\obj\Debug\net8.0\LicenseRenovationCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Materia Gris\.vscode\LicenseRenovationCode\obj\Debug\net8.0\LicenseRenovationCode.AssemblyInfoInputs.cache
+C:\Users\Materia Gris\.vscode\LicenseRenovationCode\obj\Debug\net8.0\LicenseRenovationCode.AssemblyInfo.cs
+C:\Users\Materia Gris\.vscode\LicenseRenovationCode\obj\Debug\net8.0\LicenseRenovationCode.csproj.CoreCompileInputs.cache
+C:\Users\Materia Gris\.vscode\LicenseRenovationCode\bin\Debug\net8.0\LicenseRenovationCode.exe
+C:\Users\Materia Gris\.vscode\LicenseRenovationCode\bin\Debug\net8.0\LicenseRenovationCode.deps.json
+C:\Users\Materia Gris\.vscode\LicenseRenovationCode\bin\Debug\net8.0\LicenseRenovationCode.runtimeconfig.json
+C:\Users\Materia Gris\.vscode\LicenseRenovationCode\bin\Debug\net8.0\LicenseRenovationCode.dll
+C:\Users\Materia Gris\.vscode\LicenseRenovationCode\bin\Debug\net8.0\LicenseRenovationCode.pdb
+C:\Users\Materia Gris\.vscode\LicenseRenovationCode\obj\Debug\net8.0\LicenseRenovationCode.dll
+C:\Users\Materia Gris\.vscode\LicenseRenovationCode\obj\Debug\net8.0\refint\LicenseRenovationCode.dll
+C:\Users\Materia Gris\.vscode\LicenseRenovationCode\obj\Debug\net8.0\LicenseRenovationCode.pdb
+C:\Users\Materia Gris\.vscode\LicenseRenovationCode\obj\Debug\net8.0\LicenseRenovationCode.genruntimeconfig.cache
+C:\Users\Materia Gris\.vscode\LicenseRenovationCode\obj\Debug\net8.0\ref\LicenseRenovationCode.dll
